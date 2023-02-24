@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    border: 10px;
+    border-color: black;
+}
+
+tr {
+    width: 100%;
+}
+
+td {
+    /* margin: 15; */
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* height: 50; */
+    /* width: 500; */
+
+}
+
+.cell {
+    height: 100%;
+    width: 100%;
+}
